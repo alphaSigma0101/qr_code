@@ -1,0 +1,5 @@
+pillow>=9.0.0
+pylibdmtx>=0.1.9
+pywin32>=300
+pyzbar>=0.1.9
+opencv-python>=4.5.5
