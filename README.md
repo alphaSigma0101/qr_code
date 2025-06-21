@@ -61,3 +61,14 @@ pip install pillow pylibdmtx pywin32 pyzbar opencv-python
 
     Поддержка ESC/POS команд для совместимости с другими принтерами
 
+
+2. Структура проекта должна включать:
+
+/qr_code
+│ README.md
+│ main.py
+│ requirements.txt
+│ .gitignore
+└── /docs
+│ manual.pdf
+└── screenshots/
